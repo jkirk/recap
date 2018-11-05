@@ -1,13 +1,13 @@
 Source: recap
 Section: misc
 Priority: optional
-Maintainer: Rackspace Debian Packaging Team <deb-pkg-maint@lists.rackspace.com>
-Uploaders: Andreas "Jimmy" Gredler <andreas.gredler@rackspace.com>
+Maintainer: Darshaka Pathirana <dpat@syn-net.org>
+Uploaders: Michael Prokop <mika@debian.org>
 Build-Depends: debhelper (>= 9), dh-exec
-Standards-Version: 3.9.8
+Standards-Version: 4.2.1
 Homepage: https://github.com/rackerlabs/recap
-Vcs-Git: https://github.com/rackerlabs/recap.git
-Vcs-Browser: https://github.com/rackerlabs/recap.git
+Vcs-Git: https://github.com/jkirk/recap.git
+Vcs-Browser: https://github.com/jkirk/recap.git
 
 Package: recap
 Architecture: all
