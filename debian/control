@@ -3,7 +3,7 @@ Section: misc
 Priority: optional
 Maintainer: Darshaka Pathirana <dpat@syn-net.org>
 Uploaders: Michael Prokop <mika@debian.org>
-Build-Depends: debhelper (>= 9), dh-exec
+Build-Depends: debhelper (>= 11~), dh-exec
 Standards-Version: 4.2.1
 Homepage: https://github.com/rackerlabs/recap
 Vcs-Git: https://github.com/jkirk/recap.git
