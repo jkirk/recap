@@ -2,8 +2,11 @@ Source: recap
 Section: misc
 Priority: optional
 Maintainer: Darshaka Pathirana <dpat@syn-net.org>
-Uploaders: Michael Prokop <mika@debian.org>
-Build-Depends: debhelper (>= 11~), dh-exec
+Uploaders:
+ Michael Prokop <mika@debian.org>,
+Build-Depends:
+ debhelper (>= 11~),
+ dh-exec,
 Standards-Version: 4.2.1
 Homepage: https://github.com/rackerlabs/recap
 Vcs-Git: https://github.com/jkirk/recap.git
@@ -11,8 +14,15 @@ Vcs-Browser: https://github.com/jkirk/recap.git
 
 Package: recap
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, iproute2, links, sysstat,
- procps, gawk, iotop
+Depends:
+ gawk,
+ iotop,
+ iproute2,
+ links,
+ procps,
+ sysstat,
+ ${misc:Depends},
+ ${shlibs:Depends},
 Description: Generates reports of various information about the server
  This program is intended to be used as a companion for the reporting provided
  by sysstat. It will create a set of reports summarizing hardware resource
