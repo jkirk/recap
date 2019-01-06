@@ -7,7 +7,7 @@ Uploaders:
 Build-Depends:
  debhelper (>= 11~),
  dh-exec,
-Standards-Version: 4.2.1
+Standards-Version: 4.3.0
 Homepage: https://github.com/rackerlabs/recap
 Vcs-Git: https://github.com/jkirk/recap.git
 Vcs-Browser: https://github.com/jkirk/recap.git
