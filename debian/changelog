@@ -1,3 +1,17 @@
+recap (1.4.0-2) unstable; urgency=medium
+
+  * [34e1c3f] Update Debian control fields
+  * [078b6fd] Update to debhelper 11 and bump debian compat to version 11
+  * [456c12a] Update debian/copyright
+  * [8f4ffce] Ignore quilt .pc directory
+  * [074ffeb] Add patch to fix version string variable
+  * [d45505f] Add patch: recap.5 should be recap.conf.5.
+    Thanks to @jamrok for the patch provided
+  * [1aa9699] Wrap long lines and sort items in Debian packaging files.
+  * [d69ab0e] Bump Debian Standards-Version to 4.3.0 (no further changes)
+
+ -- Darshaka Pathirana <dpat@syn-net.org>  Sun, 06 Jan 2019 15:52:03 +0100
+
 recap (1.4.0-1) unstable; urgency=medium
 
   * Release 1.4.0
