@@ -9,8 +9,9 @@ recap (1.4.0-2) unstable; urgency=medium
     Thanks to @jamrok for the patch provided
   * [1aa9699] Wrap long lines and sort items in Debian packaging files.
   * [d69ab0e] Bump Debian Standards-Version to 4.3.0 (no further changes)
+  * Repackage for Debian/unstable (Closes: #918603)
 
- -- Darshaka Pathirana <dpat@syn-net.org>  Sun, 06 Jan 2019 15:52:03 +0100
+ -- Darshaka Pathirana <dpat@syn-net.org>  Wed, 09 Jan 2019 18:22:59 +0100
 
 recap (1.4.0-1) unstable; urgency=medium
 
