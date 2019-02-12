@@ -6,3 +6,7 @@ recap: script-not-executable usr/lib/recap/core/ps
 recap: script-not-executable usr/lib/recap/core/pstree
 recap: script-not-executable usr/lib/recap/core/resources
 recap: script-not-executable usr/lib/recap/core/send_mail
+recap: script-not-executable usr/lib/recap/plugins-available/docker_top
+recap: script-not-executable usr/lib/recap/plugins-available/http_status
+recap: script-not-executable usr/lib/recap/plugins-available/kernel_cmd
+recap: script-not-executable usr/lib/recap/plugins-available/redis
