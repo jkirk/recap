@@ -1,1 +1,8 @@
 recap: package-contains-empty-directory usr/lib/recap/plugins-enabled/
+recap: script-not-executable usr/lib/recap/core/fdisk
+recap: script-not-executable usr/lib/recap/core/mysql
+recap: script-not-executable usr/lib/recap/core/netstat
+recap: script-not-executable usr/lib/recap/core/ps
+recap: script-not-executable usr/lib/recap/core/pstree
+recap: script-not-executable usr/lib/recap/core/resources
+recap: script-not-executable usr/lib/recap/core/send_mail
