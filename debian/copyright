@@ -4,7 +4,7 @@ Upstream-Contact: Tony Garcia <tony.garcia@rackspace.com>
 Source: http://www.rackspace.com
 
 Files: *
-Copyright: <Copyright (C) 2018 Rackspace US, Inc.>
+Copyright: <Copyright (C) 2018-2019 Rackspace US, Inc.>
 License: GPL-2.0+
 
 Files: debian/*
