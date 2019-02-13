@@ -1,3 +1,14 @@
+recap (2.0.1-1) unstable; urgency=medium
+
+  * [f3a2747] Remove debian/patches which have been included upstream
+  * [23e0dd6] New upstream version 2.0.1
+  * [b4e7057] Override lintian info: package-contains-empty-directory
+  * [2569e21] Override lintian warning: script-not-executable
+  * [acd87c5] Override lintian warning: script-not-executable
+  * [3b19ad1] Update copyright year of the source
+
+ -- Darshaka Pathirana <dpat@syn-net.org>  Wed, 13 Feb 2019 06:21:05 +0100
+
 recap (1.4.0-2) unstable; urgency=medium
 
   * [34e1c3f] Update Debian control fields
