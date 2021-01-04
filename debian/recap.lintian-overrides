@@ -10,3 +10,4 @@ recap: script-not-executable usr/lib/recap/plugins-available/docker_top
 recap: script-not-executable usr/lib/recap/plugins-available/http_status
 recap: script-not-executable usr/lib/recap/plugins-available/kernel_cmd
 recap: script-not-executable usr/lib/recap/plugins-available/redis
+recap: script-not-executable usr/lib/recap/plugins-available/system_locks
