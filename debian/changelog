@@ -1,8 +1,15 @@
-recap (2.1.0-1) unstable; urgency=medium
+recap (2.1.0-1) UNRELEASED; urgency=medium
 
+  [ Tony Garcia ]
+  * [de55f35] New upstream version 2.1.0
+  * [6f89c08] Override lintian warning: script-not-executable
+
+  [ Darshaka Pathirana ]
   * [57c84a3] New upstream version 2.1.0
+  * [7917ca0] Update changelog for release 2.1.0-1
+  * [c25463b] Bump Debian Standards-Version to 4.5.1 (no further changes)
 
- -- Darshaka Pathirana <dpat@syn-net.org>  Sat, 12 Dec 2020 14:07:16 +0100
+ -- Darshaka Pathirana <dpat@syn-net.org>  Mon, 04 Jan 2021 03:26:51 +0100
 
 recap (2.0.2-1) unstable; urgency=medium
 
