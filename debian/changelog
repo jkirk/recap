@@ -8,8 +8,9 @@ recap (2.1.0-1) UNRELEASED; urgency=medium
   * [57c84a3] New upstream version 2.1.0
   * [7917ca0] Update changelog for release 2.1.0-1
   * [c25463b] Bump Debian Standards-Version to 4.5.1 (no further changes)
+  * [333f8f0] Remove unneeded Build-Depends dh-exec
 
- -- Darshaka Pathirana <dpat@syn-net.org>  Mon, 04 Jan 2021 03:26:51 +0100
+ -- Darshaka Pathirana <dpat@syn-net.org>  Mon, 04 Jan 2021 03:41:09 +0100
 
 recap (2.0.2-1) unstable; urgency=medium
 
