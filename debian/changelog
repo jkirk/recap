@@ -1,4 +1,4 @@
-recap (2.1.0-1) UNRELEASED; urgency=medium
+recap (2.1.0-1) unstable; urgency=medium
 
   [ Tony Garcia ]
   * [de55f35] New upstream version 2.1.0
@@ -9,8 +9,9 @@ recap (2.1.0-1) UNRELEASED; urgency=medium
   * [7917ca0] Update changelog for release 2.1.0-1
   * [c25463b] Bump Debian Standards-Version to 4.5.1 (no further changes)
   * [333f8f0] Remove unneeded Build-Depends dh-exec
+  * [16631d4] Update debian/copyright
 
- -- Darshaka Pathirana <dpat@syn-net.org>  Mon, 04 Jan 2021 03:41:09 +0100
+ -- Darshaka Pathirana <dpat@syn-net.org>  Tue, 02 Feb 2021 00:58:36 +0100
 
 recap (2.0.2-1) unstable; urgency=medium
 
