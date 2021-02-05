@@ -13,6 +13,13 @@ recap (2.1.0-1) unstable; urgency=medium
 
  -- Darshaka Pathirana <dpat@syn-net.org>  Tue, 02 Feb 2021 00:58:36 +0100
 
+recap (2.0.2-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Sat, 09 Jan 2021 16:11:16 +0100
+
 recap (2.0.2-1) unstable; urgency=medium
 
   * [750185d] New upstream version 2.0.2
