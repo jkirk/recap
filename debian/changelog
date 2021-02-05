@@ -10,8 +10,10 @@ recap (2.1.0-1) unstable; urgency=medium
   * [c25463b] Bump Debian Standards-Version to 4.5.1 (no further changes)
   * [333f8f0] Remove unneeded Build-Depends dh-exec
   * [16631d4] Update debian/copyright
+  * [4a83b90] Updated Vcs-* fields to point to salsa.debian.org
+  * [3e05270] Update changelog to include NMU version 2.0.2-1.1
 
- -- Darshaka Pathirana <dpat@syn-net.org>  Tue, 02 Feb 2021 00:58:36 +0100
+ -- Darshaka Pathirana <dpat@syn-net.org>  Fri, 05 Feb 2021 11:10:47 +0100
 
 recap (2.0.2-1.1) unstable; urgency=medium
 
